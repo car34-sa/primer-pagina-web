@@ -79,7 +79,7 @@ body::before {
     align-items: center;
     justify-content: center;
     position: relative;
-    background: url('Gemini_Generated_Image_yuyucmyuyucmyuyu.png') center center no-repeat;   /* ← Aquí pones tu imagen */
+    background: url('Gemini_Generated_Image_yuyucmyuyucmyuyu.jpg') center center no-repeat;   /* ← Aquí pones tu imagen */
     background-size: cover;
     overflow: hidden;
 }
