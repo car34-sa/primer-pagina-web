@@ -268,9 +268,9 @@ footer {
 }
 
 .social-icon:hover {
-    color: #ff00ff;
+    color: #00ff4cfd;
     transform: translateY(-5px) scale(1.2);
-    text-shadow: 0 0 20px #ff00ff;
+    text-shadow: 0 0 20px #00ff33c8;
 }
 
 /* Ajuste para móvil */
